@@ -1,0 +1,22 @@
+{
+  "name": "devgeniem/wp-seo-collection",
+  "type": "metapackage",
+  "license": "MIT",
+  "description": "This is a composer metapackage which includes WordPress plugins to help search engine optimizations.",
+  "homepage": "https://github.com/devgeniem/wp-seo-collection",
+  "authors": [
+    {
+      "name": "Onni Hakala",
+      "email": "onni.hakala@geniem.com",
+      "homepage": "https://github.com/onnimonni",
+      "role": "maintainer"
+    }
+  ],
+  "keywords": [
+    "wordpress", "library", "seo"
+  ],
+  "require": {
+    "johnpbloch/wordpress": ">=4.7.0",
+    "wpackagist-plugin/autodescription": "*"
+  }
+}
