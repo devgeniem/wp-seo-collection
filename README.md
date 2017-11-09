@@ -34,7 +34,7 @@ extra: {
 We use bedrock styled names for `wp-content`. Replace `web/app` according for your project.
 
 ## Maintainers
-[Onni Hakala](https://github.com/onnimonni)
+[Ville Siltala](https://github.com/villesiltala)
 
 ## Changelog
 [See the included CHANGELOG.md](CHANGELOG.md)
