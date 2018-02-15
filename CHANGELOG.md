@@ -5,6 +5,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 ## [Unreleased]
 
+## [2.0.0] - 2018-15-02
+
+### Changed
+
+- Require The SEO Framework version `3.x.y`.
+
 ## [1.1.0] - 2017-11-09
 
 ### Changed
