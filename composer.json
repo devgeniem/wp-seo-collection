@@ -16,7 +16,7 @@
     "wordpress", "library", "seo"
   ],
   "require": {
-    "johnpbloch/wordpress": "^4.7.0",
+    "johnpbloch/wordpress": "^5.0.0",
     "wpackagist-plugin/autodescription": "^3.0.0"
   }
 }

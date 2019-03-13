@@ -5,6 +5,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/) a
 
 ## [Unreleased]
 
+## [3.0.0] - 2019-03-13
+
+### Changed
+
+- Require WordPress `5.x.y`.
+
 ## [2.0.0] - 2018-15-02
 
 ### Changed
